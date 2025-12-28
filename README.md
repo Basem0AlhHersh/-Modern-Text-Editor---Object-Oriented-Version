@@ -1,50 +1,5 @@
 # 🎯 **Modern Text Editor - A Feature-Rich Python GUI Application** 🚀
 
-## 🎨 **Screenshots Gallery**
-
-📸 *Screenshots will appear here once added to the `screenshots/` folder.*
-
----
-
-### 🎯 Main Interface (Dark Theme)
-
-![Dark Theme](screenshots/dark_theme.png)
-
-*Professional dark interface with intuitive toolbar and clean text area*
-
----
-
-### ☀️ Light Theme
-
-![Light Theme](screenshots/light_theme.png)
-
-*Elegant light theme perfect for daytime coding sessions*
-
----
-
-### 🔍 Advanced Search
-
-![Search](screenshots/search.png)
-
-*Search dialog with highlighted matches and navigation controls*
-
----
-
-### 🎤 Voice Features
-
-![Voice Recording](screenshots/voice_recording.png)
-
-*Live voice-to-text conversion and text-to-speech in action*
-
----
-
-### 🌐 Multi-Language Support
-
-![Arabic Text](screenshots/arabic_text.png)
-
-*Automatic Arabic (RTL) and English (LTR) text direction handling*
-
-
 ## 🚀 **Quick Start Guide**
 
 ### **📦 Installation in 3 Simple Steps:**
@@ -335,6 +290,50 @@ python -c "import pygame; pygame.mixer.init(); print('Audio system ready')"
 - **🌍 Multilingual users** working with Arabic/English
 - **🎓 Students** learning OOP and GUI programming
 - **💼 Professionals** wanting a customizable text tool
+
+## 🎨 **Screenshots Gallery**
+
+📸 *Screenshots will appear here once added to the `screenshots/` folder.*
+
+---
+
+### 🎯 Main Interface (Dark Theme)
+
+![Dark Theme](screenshots/dark_theme.png)
+
+*Professional dark interface with intuitive toolbar and clean text area*
+
+---
+
+### ☀️ Light Theme
+
+![Light Theme](screenshots/light_theme.png)
+
+*Elegant light theme perfect for daytime coding sessions*
+
+---
+
+### 🔍 Advanced Search
+
+![Search](screenshots/search.png)
+
+*Search dialog with highlighted matches and navigation controls*
+
+---
+
+### 🎤 Voice Features
+
+![Voice Recording](screenshots/voice_recording.png)
+
+*Live voice-to-text conversion and text-to-speech in action*
+
+---
+
+### 🌐 Multi-Language Support
+
+![Arabic Text](screenshots/arabic_text.png)
+
+*Automatic Arabic (RTL) and English (LTR) text direction handling*
 
 ## 📚 **Documentation**
 
