@@ -2,27 +2,48 @@
 
 ## 🎨 **Screenshots Gallery**
 
-*📸 Screenshots coming soon! Add your own screenshots to the `screenshots/` folder*
+📸 *Screenshots will appear here once added to the `screenshots/` folder.*
 
-### **🎯 Main Interface (Dark Theme)**
-`screenshots/dark_theme.png`  
+---
+
+### 🎯 Main Interface (Dark Theme)
+
+![Dark Theme](screenshots/dark_theme.png)
+
 *Professional dark interface with intuitive toolbar and clean text area*
 
-### **☀️ Light Theme**
-`screenshots/light_theme.png`  
+---
+
+### ☀️ Light Theme
+
+![Light Theme](screenshots/light_theme.png)
+
 *Elegant light theme perfect for daytime coding sessions*
 
-### **🔍 Advanced Search**
-`screenshots/search.png`  
-*Intelligent search with real-time highlighting and navigation*
+---
 
-### **🎤 Voice Features**
-`screenshots/voice_recording.png`  
+### 🔍 Advanced Search
+
+![Search](screenshots/search.png)
+
+*Search dialog with highlighted matches and navigation controls*
+
+---
+
+### 🎤 Voice Features
+
+![Voice Recording](screenshots/voice_recording.png)
+
 *Live voice-to-text conversion and text-to-speech in action*
 
-### **🌐 Multi-Language Support**
-`screenshots/arabic_text.png`  
-*Arabic/English text direction detection*
+---
+
+### 🌐 Multi-Language Support
+
+![Arabic Text](screenshots/arabic_text.png)
+
+*Automatic Arabic (RTL) and English (LTR) text direction handling*
+
 
 ## 🚀 **Quick Start Guide**
 
