@@ -30,7 +30,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/modern-text-editor.git
+git clone https://github.com/Basem0AlhHersh/-Modern-Text-Editor---Object-Oriented-Version.git
 
 # 2. Navigate to project
 cd modern-text-editor
@@ -44,7 +44,7 @@ python text_editor.py
 
 ### **⚡ One-Liner Installation:**
 ```bash
-git clone https://github.com/yourusername/modern-text-editor.git && cd modern-text-editor && pip install -r requirements.txt && python text_editor.py
+git clone https://github.com/Basem0AlhHersh/-Modern-Text-Editor---Object-Oriented-Version.git && cd modern-text-editor && pip install -r requirements.txt && python text_editor.py
 ```
 
 ## 📋 **Requirements File**
@@ -331,7 +331,7 @@ python -c "import pygame; pygame.mixer.init(); print('Audio system ready')"
 ## 👥 **Development Team**
 
 ### **👨‍💻 Lead Developer:**
-- **Your Name** - Architecture & Core Development
+- **Basem Al-Hersh** - Architecture & Core Development
 
 ### **🤝 Acknowledgments:**
 - **CustomTkinter Community** for the amazing GUI framework
